@@ -1,2 +1,2 @@
 # MDFacts
-Provides Fact based rating based true claim based analythics
+Provides Fact based Healthcare Provider rating based on true claim based analythics.
